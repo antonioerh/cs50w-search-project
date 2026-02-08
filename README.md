@@ -1,2 +1,2 @@
 ## Project 0 — CS50W: Web Programming with Python and JavaScript
-[HTML, CSS, and Javascript for Web Developers Specialization](https://www.coursera.org/specializations/html-css-javascript-for-web-developers)
+[CS50W: Web Programming with Python and JavaScript](https://www.edx.org/learn/web-development/harvard-university-cs50-s-web-programming-with-python-and-javascript#ace-recommendation-card-component)
